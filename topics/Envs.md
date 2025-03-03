@@ -1,0 +1,1 @@
+https://codewithandrea.com/articles/flutter-firebase-multiple-flavors-flutterfire-cli/

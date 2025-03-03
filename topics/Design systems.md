@@ -1,0 +1,1 @@
+https://flutter-shadcn-ui.mariuti.com

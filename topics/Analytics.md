@@ -1,0 +1,1 @@
+https://techfront.substack.com/p/why-separating-analytics-logging

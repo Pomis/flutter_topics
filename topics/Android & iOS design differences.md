@@ -1,0 +1,1 @@
+https://docs.flutter.dev/ui/adaptive-responsive/platform-adaptations

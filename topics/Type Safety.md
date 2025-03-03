@@ -1,0 +1,1 @@
+https://dinkomarinac.dev/enhancing-your-flutter-project-with-typesafe-packages#heading-non-typesafe-code-1
